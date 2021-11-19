@@ -2,7 +2,7 @@
 Лабораторная работа №6
 #### Ход работы
 Для начала я создал аккаунт на Github. После этого сделал копию исходного репозитория к себе. После скачал и установил Git.
-Первым делом настроил Git введя параметры `email git config --global user.name <username>` и `git config --global user.email <email>`.
+Первым делом настроил Git введя параметры `git config --global user.name <username>` и `git config --global user.email <email>`.
 Затем с помощью `git clone <url>` загрузил репозиторий.
 
 ![image](Screenshots/Config.jpg)
